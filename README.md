@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/levelupsvr/leetcode-python/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/levelupsvr/leetcode-python/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/levelupsvr/leetcode-python/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3024-type-of-triangle](https://github.com/levelupsvr/leetcode-python/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/levelupsvr/leetcode-python/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/levelupsvr/leetcode-python/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/levelupsvr/leetcode-python/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3024-type-of-triangle](https://github.com/levelupsvr/leetcode-python/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/levelupsvr/leetcode-python/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/levelupsvr/leetcode-python/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/levelupsvr/leetcode-python/tree/master/2485-find-the-pivot-integer) |
+| [3024-type-of-triangle](https://github.com/levelupsvr/leetcode-python/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/levelupsvr/leetcode-python/tree/master/0056-merge-intervals) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/levelupsvr/leetcode-python/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
