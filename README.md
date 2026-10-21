@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/levelupsvr/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/levelupsvr/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/levelupsvr/leetcode-python/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/levelupsvr/leetcode-python/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/levelupsvr/leetcode-python/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/levelupsvr/leetcode-python/tree/master/2485-find-the-pivot-integer) |
 | [3024-type-of-triangle](https://github.com/levelupsvr/leetcode-python/tree/master/3024-type-of-triangle) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/levelupsvr/leetcode-python/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/levelupsvr/leetcode-python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/levelupsvr/leetcode-python/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/levelupsvr/leetcode-python/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/levelupsvr/leetcode-python/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/levelupsvr/leetcode-python/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/levelupsvr/leetcode-python/tree/master/1768-merge-strings-alternately) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/levelupsvr/leetcode-python/tree/master/3024-type-of-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/levelupsvr/leetcode-python/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
