@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/levelupsvr/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/levelupsvr/leetcode-python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/levelupsvr/leetcode-python/tree/master/0283-move-zeroes) |
+| [1200-minimum-absolute-difference](https://github.com/levelupsvr/leetcode-python/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/levelupsvr/leetcode-python/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/levelupsvr/leetcode-python/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/levelupsvr/leetcode-python/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/levelupsvr/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/levelupsvr/leetcode-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/levelupsvr/leetcode-python/tree/master/0217-contains-duplicate) |
+| [1200-minimum-absolute-difference](https://github.com/levelupsvr/leetcode-python/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/levelupsvr/leetcode-python/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/levelupsvr/leetcode-python/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/levelupsvr/leetcode-python/tree/master/1679-max-number-of-k-sum-pairs) |
